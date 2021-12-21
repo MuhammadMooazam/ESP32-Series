@@ -1,2 +1,2 @@
-# ESP32-Series
-This is for teaching purposes
+# ESP32 Series
+This repository is for teaching purposes
